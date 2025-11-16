@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Creative Suite",
+  "description": "A comprehensive web application showcasing the power of Google's Gemini API, including image generation & editing, video animation, real-time voice conversations, web-grounded search, and advanced reasoning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
